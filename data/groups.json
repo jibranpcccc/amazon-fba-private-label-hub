@@ -1,0 +1,512 @@
+[
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-1",
+    "title": "r/fulfillmentbyamazon FBA Professional Sellers",
+    "platform": "Reddit",
+    "category": "Amazon FBA",
+    "memberCount": "115,000+ members",
+    "description": "The premier community for serious Amazon FBA sellers, discussing wholesale, private label, freight forwarding, and Amazon policy changes.",
+    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
+    "tags": [
+      "fba",
+      "amazon",
+      "privatelabel",
+      "ecommerce"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-2",
+    "title": "r/FBA Amazon Seller Mastermind",
+    "platform": "Reddit",
+    "category": "FBA Strategies",
+    "memberCount": "42,000+ members",
+    "description": "Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.",
+    "joinUrl": "https://www.reddit.com/r/FBA/",
+    "tags": [
+      "fba",
+      "amazon",
+      "inventory",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-3",
+    "title": "r/AmazonSeller Seller Central Q&A",
+    "platform": "Reddit",
+    "category": "Seller Central",
+    "memberCount": "195,000+ members",
+    "description": "Troubleshooting account suspensions, Brand Registry, PPC advertising campaigns, listing optimization, and customer returns.",
+    "joinUrl": "https://www.reddit.com/r/AmazonSeller/",
+    "tags": [
+      "amazonseller",
+      "sellercentral",
+      "ppc",
+      "brands"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-4",
+    "title": "r/ecommerce Multi-Channel Retail",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "380,000+ members",
+    "description": "Discussions on direct-to-consumer strategy, fulfillment logistics, payment processing, conversion rate optimization, and multi-channel expansion.",
+    "joinUrl": "https://www.reddit.com/r/ecommerce/",
+    "tags": [
+      "ecommerce",
+      "retail",
+      "dtc",
+      "logistics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-5",
+    "title": "r/PPC Pay-Per-Click Advertising",
+    "platform": "Reddit",
+    "category": "Paid Advertising",
+    "memberCount": "180,000+ members",
+    "description": "Mastering Amazon Sponsored Products, Google Ads, Meta Ads, and ROAS optimization for e-commerce brands.",
+    "joinUrl": "https://www.reddit.com/r/PPC/",
+    "tags": [
+      "ppc",
+      "advertising",
+      "amazonads",
+      "roas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-6",
+    "title": "r/Helium10 Product Research Guild",
+    "platform": "Reddit",
+    "category": "FBA Tools",
+    "memberCount": "18,000+ members",
+    "description": "Best practices for Black Box, Cerebro reverse ASIN lookup, Magnet keyword research, and inventory forecasting.",
+    "joinUrl": "https://www.reddit.com/r/Helium10/",
+    "tags": [
+      "helium10",
+      "productresearch",
+      "keywords",
+      "tools"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-7",
+    "title": "r/JungleScout Market Intelligence",
+    "platform": "Reddit",
+    "category": "FBA Tools",
+    "memberCount": "14,000+ members",
+    "description": "Supplier database research, Opportunity Finder strategies, sales estimator accuracy, and listing builder guides.",
+    "joinUrl": "https://www.reddit.com/r/JungleScout/",
+    "tags": [
+      "junglescout",
+      "suppliers",
+      "fba",
+      "analytics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-8",
+    "title": "r/smallbusiness Business Operations",
+    "platform": "Reddit",
+    "category": "Small Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Managing cash flow, business lines of credit, trademark filing, supply chain agreements, and operational scaling.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "operations",
+      "cashflow",
+      "scaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-9",
+    "title": "r/Entrepreneur Scalable Brand Building",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Building physical product brands, raising growth capital, supply chain management, and exit valuation multiples.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "brands",
+      "scaling",
+      "founders"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-10",
+    "title": "r/digitalmarketing Brand Growth",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "320,000+ members",
+    "description": "Omnichannel marketing strategies, influencer seeding for Amazon storefronts, email capture, and brand equity building.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "marketing",
+      "branding",
+      "growth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-11",
+    "title": "r/importing Global Freight & Customs",
+    "platform": "Reddit",
+    "category": "Supply Chain",
+    "memberCount": "24,000+ members",
+    "description": "Ocean and air freight forwarding, customs clearance, HTS codes, tariff classifications, and port logistics.",
+    "joinUrl": "https://www.reddit.com/r/importing/",
+    "tags": [
+      "importing",
+      "freight",
+      "customs",
+      "logistics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-12",
+    "title": "r/Alibaba Supplier Negotiation",
+    "platform": "Reddit",
+    "category": "Product Sourcing",
+    "memberCount": "32,000+ members",
+    "description": "Vetting Chinese manufacturers, Trade Assurance protocols, sample prototyping, factory audits, and MOQ negotiations.",
+    "joinUrl": "https://www.reddit.com/r/Alibaba/",
+    "tags": [
+      "alibaba",
+      "sourcing",
+      "manufacturers",
+      "moq"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-13",
+    "title": "r/dropship E-Commerce Fulfillment",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "240,000+ members",
+    "description": "Direct consumer testing, product validation, 3PL warehouse transitions, and margin optimization.",
+    "joinUrl": "https://www.reddit.com/r/dropship/",
+    "tags": [
+      "dropship",
+      "ecommerce",
+      "3pl",
+      "fulfillment"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-14",
+    "title": "r/startups Physical Product Founders",
+    "platform": "Reddit",
+    "category": "Startups",
+    "memberCount": "1,850,000+ members",
+    "description": "Discussions on hardware and consumer goods startups, unit economics, packaging design, and customer retention.",
+    "joinUrl": "https://www.reddit.com/r/startups/",
+    "tags": [
+      "startups",
+      "products",
+      "founders",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-15",
+    "title": "Amazon Sellers Official Discord",
+    "platform": "Reddit",
+    "category": "Amazon Community",
+    "memberCount": "48,000+ members",
+    "description": "Active real-time Discord server for Amazon sellers, discussing PPC tactics, catalog fixes, review compliance, and Q4 prep.",
+    "joinUrl": "https://www.reddit.com/r/FulfillmentByAmazon/",
+    "tags": [
+      "amazonsellers",
+      "discord",
+      "fba",
+      "ppc"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-discord-16",
+    "title": "E-Commerce Growth Mastermind Discord",
+    "platform": "Discord",
+    "category": "E-Commerce",
+    "memberCount": "62,000+ members",
+    "description": "Multi-platform e-commerce founders sharing revenue metrics, logistics partners, CRO split tests, and advertising setups.",
+    "joinUrl": "https://discord.gg/ecommerce",
+    "tags": [
+      "ecommerce",
+      "discord",
+      "cro",
+      "logistics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-discord-17",
+    "title": "FBA Mastermind Discord Guild",
+    "platform": "Discord",
+    "category": "FBA Elite",
+    "memberCount": "35,000+ members",
+    "description": "Private label and wholesale sellers discussing container rates, Amazon algorithm updates, and Brand Tailored Promotions.",
+    "joinUrl": "https://discord.gg/fba",
+    "tags": [
+      "fba",
+      "discord",
+      "privatelabel",
+      "wholesale"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-discord-18",
+    "title": "Dropshipping & Ecom Discord Lounge",
+    "platform": "Discord",
+    "category": "Online Retail",
+    "memberCount": "55,000+ members",
+    "description": "Product discovery, landing page tear-downs, creative testing, and inventory supply chain management.",
+    "joinUrl": "https://discord.gg/dropshipping",
+    "tags": [
+      "dropshipping",
+      "discord",
+      "creatives",
+      "ecom"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-discord-19",
+    "title": "Shopify Official Community Discord",
+    "platform": "Discord",
+    "category": "Store Architecture",
+    "memberCount": "78,000+ members",
+    "description": "Official community for building DTC storefronts, Liquid theme development, app integrations, and omnichannel sales.",
+    "joinUrl": "https://discord.gg/shopify",
+    "tags": [
+      "shopify",
+      "discord",
+      "storefront",
+      "dtc"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-20",
+    "title": "Amazon FBA Sellers Global Telegram",
+    "platform": "Telegram",
+    "category": "FBA Alerts",
+    "memberCount": "64,000+ members",
+    "description": "Curated announcements covering Amazon Seller Central policy updates, fee schedule changes, and prime day strategies.",
+    "joinUrl": "https://t.me/fbasellers",
+    "tags": [
+      "fba",
+      "telegram",
+      "amazon",
+      "sellercentral"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-21",
+    "title": "Private Label Masters Channel Telegram",
+    "platform": "Telegram",
+    "category": "Private Label",
+    "memberCount": "42,000+ members",
+    "description": "Daily case studies on product differentiation, patent search safeguards, custom packaging, and brand equity.",
+    "joinUrl": "https://t.me/privatelabel",
+    "tags": [
+      "privatelabel",
+      "telegram",
+      "packaging",
+      "patents"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-22",
+    "title": "E-Commerce Global Network Telegram",
+    "platform": "Telegram",
+    "category": "E-Commerce News",
+    "memberCount": "52,000+ members",
+    "description": "Global e-commerce retail data, supply chain freight index metrics, consumer spending trends, and platform news.",
+    "joinUrl": "https://t.me/ecommercehub",
+    "tags": [
+      "ecommerce",
+      "telegram",
+      "retail",
+      "freight"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-23",
+    "title": "Product Sourcing & Inspection Telegram",
+    "platform": "Telegram",
+    "category": "Sourcing",
+    "memberCount": "38,000+ members",
+    "description": "Direct factory contacts, Canton Fair highlights, pre-shipment inspection checklists, and freight consolidation advice.",
+    "joinUrl": "https://t.me/productsourcing",
+    "tags": [
+      "sourcing",
+      "telegram",
+      "factories",
+      "inspection"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-24",
+    "title": "Amazon PPC & Ads Optimization Telegram",
+    "platform": "Telegram",
+    "category": "Amazon Ads",
+    "memberCount": "34,000+ members",
+    "description": "Day-parting scripts, negative keyword harvesting strategies, Sponsored Brand video benchmarks, and ACOS management.",
+    "joinUrl": "https://t.me/amazonppc",
+    "tags": [
+      "ppc",
+      "telegram",
+      "acos",
+      "advertising"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-telegram-25",
+    "title": "Ecom World News Telegram Channel",
+    "platform": "Telegram",
+    "category": "Industry Updates",
+    "memberCount": "46,000+ members",
+    "description": "Breaking news across Amazon, Walmart Marketplace, TikTok Shop, and international e-commerce platforms.",
+    "joinUrl": "https://t.me/ecomworld",
+    "tags": [
+      "ecom",
+      "telegram",
+      "news",
+      "marketplaces"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-26",
+    "title": "r/Shopify Merchant Community",
+    "platform": "Reddit",
+    "category": "DTC Storefront",
+    "memberCount": "240,000+ members",
+    "description": "Shopify store design, checkout optimization, third-party logistics integration, and multi-currency selling.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "tags": [
+      "shopify",
+      "dtc",
+      "merchants",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-27",
+    "title": "r/SideProject Creator Hub",
+    "platform": "Reddit",
+    "category": "Product Launch",
+    "memberCount": "280,000+ members",
+    "description": "Showcasing bootstrap physical and digital product launches, gathering user feedback, and early monetization.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
+    "tags": [
+      "sideproject",
+      "products",
+      "makers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-28",
+    "title": "r/business Enterprise Economics",
+    "platform": "Reddit",
+    "category": "Global Commerce",
+    "memberCount": "1,400,000+ members",
+    "description": "High-level retail supply chain analysis, inflation impact on consumer goods, and commercial trade policies.",
+    "joinUrl": "https://www.reddit.com/r/business/",
+    "tags": [
+      "business",
+      "trade",
+      "retail",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-reddit-29",
+    "title": "r/freelance Professional Network",
+    "platform": "Reddit",
+    "category": "Agency Contractors",
+    "memberCount": "360,000+ members",
+    "description": "Contracting packaging designers, PPC managers, listing copywriters, and 3D product renderers.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "contractors",
+      "agencies",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "amazon-fba-private-label-brand-scaling-hub-discord-30",
+    "title": "Media Buyers Global Discord",
+    "platform": "Discord",
+    "category": "Paid Acquisition",
+    "memberCount": "52,000+ members",
+    "description": "Professional paid media buyers managing high six-figure monthly ad spend across Google, Amazon, and Meta.",
+    "joinUrl": "https://discord.gg/mediabuyers",
+    "tags": [
+      "mediabuyers",
+      "discord",
+      "adspend",
+      "roas"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
